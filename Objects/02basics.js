@@ -19,3 +19,9 @@ const regularUser = {
     }
 }
 console.log(regularUser.fullname.userfullname);
+
+const obj1 = {1: "a",2: "b"}//{Key:"value"}
+const obj2 = {3: "c",4: "d"}
+
+const obj3 ={obj1 ,obj2};//doesn't merges the code just takes it as string
+console.log(obj3)
