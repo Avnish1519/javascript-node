@@ -1,7 +1,7 @@
 //arrays
 
 const myArr = [0,1,2,3,4,5];
-console.log(myArr[1]);
+console.log(myArr[1]);//index1 pos
 
 const myHeros= ["Shaktiman","Police"]
 console.log(myHeros);
