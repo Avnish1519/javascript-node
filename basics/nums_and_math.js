@@ -6,7 +6,7 @@ console.log(balance);//Specifically tells 100 as Number-->[Number:100]
 console.log(balance.toString().length);//Number is converted to string
 console.log(balance.toFixed(2));//telling upto how much decimal values answer should come
 
-const otherNumber = 23.8966
+const otherNumber = 23.8966//Constant variable
 
 console.log(otherNumber.toPrecision(2));//Round offs the number to given digits
 
