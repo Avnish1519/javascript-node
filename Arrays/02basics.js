@@ -1,4 +1,4 @@
-const marvel_heros = ["Spiderman","IronMan","Thor"]
+const marvel_heros = ["Spiderman","IronMan","Thor"]//constant declared
 const dc_heroes = ["Thor","IronMan","Hulk"]
 
 //marvel_heros.push(dc_heroes);//returns an array with inside an array as it takes another arr as single element
