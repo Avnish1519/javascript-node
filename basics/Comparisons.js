@@ -7,8 +7,8 @@
 console.log("2" > 1);//true as it converts string to Number directly
 console.log("02" > 1);
 
-console.log(null > 0);
-console.log(null == 0);
+console.log(null > 0);//
+console.log(null == 0);//comparison
 console.log(null >= 0);//Equality and comparisons work different in js null-->0 in comparisons
 
 console.log(undefined == 0);//false
