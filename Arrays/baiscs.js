@@ -7,8 +7,7 @@ const myHeros= ["Shaktiman","Police"]
 console.log(myHeros);
 
 const myArr2 = new Array(1,2,3,4,5);
-console.log(myArr2.length);//printing the output
-
+console.log(myArr2.length);//printing the outputs:
 
 //Array methods
 myArr.push(6);
